@@ -1,7 +1,6 @@
 # Lab-3-Railway-Reservation
-NAME : VISHAL S
-
-REGISTER NUMBER : 212223240184
+NAME : AKSHAYAA M T
+REGISTER NUMBER : 212223110002
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
