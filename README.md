@@ -1,7 +1,6 @@
 # Lab-3-Railway-Reservation
-NAME : AKSHAYAA M T
-REGISTER NUMBER : 212223110002
-
+## NAME : AKSHAYAA M T
+## REG NO : 212223110002
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -20,23 +19,23 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-# USECASE DIAGRAM:
-![274488102-209f95e7-668e-4ac8-a4bf-1fc7fdd3994d](https://github.com/user-attachments/assets/3aad779a-efbd-462c-b14b-6732e71577fc)
+### USECASE DIAGRAM
+<img width="1063" height="698" alt="Screenshot 2026-03-17 204706" src="https://github.com/user-attachments/assets/692be23b-3803-4568-8255-614c2c980d8e" />
 
-# CLASS DIAGRAM:
-![274489312-caa8243a-9be2-45de-a589-45c05cd351f0](https://github.com/user-attachments/assets/4e8cdd82-b802-460f-bfff-a58f3bf33145)
+### SEQUENCE DIAGRAM
+<img width="1031" height="937" alt="Screenshot 2026-03-17 204725" src="https://github.com/user-attachments/assets/34e35e91-d2d8-44eb-90c4-8b74b43cd2f7" />
 
-# ACTIVITY DIAGRAM:
-![274488296-41375922-ffb5-45f8-ae06-e4e62611b459](https://github.com/user-attachments/assets/6d7af644-e398-4536-9991-13970a2bbdec)
+### ACTIVITY DIAGRAM
+<img width="1071" height="773" alt="Screenshot 2026-03-17 204847" src="https://github.com/user-attachments/assets/b752663b-0ca6-455b-9e99-0fa7dbc17a62" />
 
-# COMMUNICATION DIAGRAM:
-![274489702-4bbc1d10-0961-4656-91d7-17f18d896a6c](https://github.com/user-attachments/assets/b8b5411d-af56-465c-82d0-6af54adaa30a)
+### CLASS DIAGRAM
+<img width="1071" height="886" alt="Screenshot 2026-03-17 204753" src="https://github.com/user-attachments/assets/f093148c-8325-44e5-84c0-69fc4ae4754f" />
 
-# SEQUENCE DIAGRAM:
-![274490974-3f2c9474-45f4-4de4-bb39-8d58ee54ea22](https://github.com/user-attachments/assets/27133fc8-5be8-4227-b2e3-4608cdd71e47)
+### COMMUNICATION DIAGRAM
+<img width="908" height="643" alt="Screenshot 2026-03-17 204809" src="https://github.com/user-attachments/assets/08ebb6aa-5815-43a8-93ce-7220392f6cf2" />
 
-# SEQUENCE DIAGRAM:
-![274491227-b828b411-cc43-4039-80ee-287e48154b77](https://github.com/user-attachments/assets/e762ca2f-ba02-4d39-b7f3-b904b1afc0d0)
+### PACKAGE DIAGRAM
+<img width="954" height="719" alt="Screenshot 2026-03-17 204826" src="https://github.com/user-attachments/assets/61521f91-ee44-4dec-9cf3-0b890007f4b6" />
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
